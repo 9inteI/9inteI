@@ -15,7 +15,7 @@
 
 I just love messing with things
 
-<a href="mailto:github.no-reply.evaluator497@passfwd.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><br><br>
+<a href="mailto:github.no-reply.evaluator497@passfwd.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 # My Main Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,cs,react,nextjs,astro,mysql,mongo)](https://skillicons.dev)
