@@ -13,11 +13,7 @@
   </tr>
 </table>
 
-
 I just love messing with things
-
-<a href="https://www.github.com/gl1scor" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gl1scor?logo=github&style=for-the-badge&color=red" /></a>
 
 <a href="mailto:github.no-reply.evaluator497@passfwd.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><br><br>
 
