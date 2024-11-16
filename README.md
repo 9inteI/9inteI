@@ -1,14 +1,8 @@
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d6045b1-8b37-4d4f-a389-f388ac084e36/deb72bf-fdbef59d-5cf9-42b3-90c3-59e72dd632d0.png/v1/fill/w_894,h_894/gentleman_gliscor_pfp_by_clamrino2307_deb72bf-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzVkNjA0NWIxLThiMzctNGQ0Zi1hMzg5LWYzODhhYzA4NGUzNlwvZGViNzJiZi1mZGJlZjU5ZC01Y2Y5LTQyYjMtOTBjMy01OWU3MmRkNjMyZDAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.X4GrxHg2U9pUnkRAww0S7AHqoH77TJ4wcTnXVEEmnEA" 
-        alt="Gl1scor" 
-        style="border-radius: 50%; width: 50px; height: 50px;" 
-      />
-    </td>
-  </tr>
-</table>
+<img 
+    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d6045b1-8b37-4d4f-a389-f388ac084e36/deb72bf-fdbef59d-5cf9-42b3-90c3-59e72dd632d0.png/v1/fill/w_894,h_894/gentleman_gliscor_pfp_by_clamrino2307_deb72bf-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzVkNjA0NWIxLThiMzctNGQ0Zi1hMzg5LWYzODhhYzA4NGUzNlwvZGViNzJiZi1mZGJlZjU5ZC01Y2Y5LTQyYjMtOTBjMy01OWU3MmRkNjMyZDAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.X4GrxHg2U9pUnkRAww0S7AHqoH77TJ4wcTnXVEEmnEA" 
+    alt="Gl1scor" 
+    style="border-radius: 50%; width: 50px; height: 50px;" 
+/>
 
 I just love messing with things
 
