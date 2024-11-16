@@ -15,8 +15,7 @@
 
 
 I just love messing with things
-<br>
-<br>
+
 <a href="https://www.github.com/gl1scor" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gl1scor?logo=github&style=for-the-badge&color=red" /></a>
 
