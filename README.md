@@ -14,10 +14,21 @@ I just love messing with things
 
 ### Hacking Skills
 <p align="left">
+  <!-- Kali Linux -->
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://www.metasploit.com/assets/img/metasploit-framework-logo.svg" alt="Metasploit" width="40" height="40"/>
+  
+  <!-- Metasploit -->
+  <img src="https://raw.githubusercontent.com/Manisso/fsociety/master/fsociety/metasploit.png" alt="Metasploit" width="40" height="40"/>
+  
+  <!-- Wireshark -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://portswigger.net/cms/images/62/27/0dba90fd4857-article-220823-burp-suite-2022-8-2-released-banner.png" alt="Burp Suite" width="40" height="40"/>
+  
+  <!-- Burp Suite -->
+  <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/BurpSuite.svg" alt="Burp Suite" width="40" height="40"/>
+  
+  <!-- Nmap -->
   <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/>
-  <img src="https://www.hackthebox.com/images/logo-htb.svg" alt="Hack The Box" width="40" height="40"/>
+  
+  <!-- Hack The Box -->
+  <img src="https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/.github/images/hackthebox.png" alt="Hack The Box" width="40" height="40"/>
 </p>
