@@ -17,15 +17,6 @@ I just love messing with things
   <!-- Kali Linux -->
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
   
-  <!-- Metasploit -->
-  <img src="https://raw.githubusercontent.com/Manisso/fsociety/master/fsociety/metasploit.png" alt="Metasploit" width="40" height="40"/>
-  
-  <!-- Wireshark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
-  
-  <!-- Burp Suite -->
-  <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/BurpSuite.svg" alt="Burp Suite" width="40" height="40"/>
-  
   <!-- Nmap -->
   <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/>
   
