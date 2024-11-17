@@ -9,4 +9,15 @@ I just love messing with things
 <a href="mailto:github.no-reply.evaluator497@passfwd.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 # My Main Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,cs,react,nextjs,astro,mysql,mongo)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,cs,react,nextjs,astro,mysql,mongo,linux,python,bash)](https://skillicons.dev)
+
+### Hacking Skills
+<p align="left">
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://www.metasploit.com/images/metasploit-logo.svg" alt="Metasploit" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
+  <img src="https://portswigger.net/cms/images/62/27/0dba90fd4857-article-220823-burp-suite-2022-8-2-released-banner.png" alt="Burp Suite" width="40" height="40"/>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/>
+  <img src="https://www.hackthebox.com/images/logo-htb.svg" alt="Hack The Box" width="40" height="40"/>
+</p>
