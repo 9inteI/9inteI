@@ -19,7 +19,5 @@ I just love messing with things
   
   <!-- Nmap -->
   <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/>
-  
-  <!-- Hack The Box -->
-  <img src="https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/.github/images/hackthebox.png" alt="Hack The Box" width="40" height="40"/>
+
 </p>
