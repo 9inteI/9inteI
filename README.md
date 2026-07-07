@@ -26,7 +26,6 @@
 - 🕸️ **Dark web monitoring**: Tor forums, paste sites, credential leak & data exposure detection
 - 🎣 **Anti-fraud at national scale**: phishing blocking across ISP infrastructure, domain & social media takedowns
 - 🐍 I build **Python tooling** to automate OSINT collection, keyword alerting and intel reporting pipelines
-- 🎓 Trained at **42 Málaga** (peer-to-peer programming school)
 
 ---
 
