@@ -1,23 +1,104 @@
-<img 
-    src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d6045b1-8b37-4d4f-a389-f388ac084e36/deb72bf-fdbef59d-5cf9-42b3-90c3-59e72dd632d0.png/v1/fill/w_894,h_894/gentleman_gliscor_pfp_by_clamrino2307_deb72bf-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzVkNjA0NWIxLThiMzctNGQ0Zi1hMzg5LWYzODhhYzA4NGUzNlwvZGViNzJiZi1mZGJlZjU5ZC01Y2Y5LTQyYjMtOTBjMy01OWU3MmRkNjMyZDAucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.X4GrxHg2U9pUnkRAww0S7AHqoH77TJ4wcTnXVEEmnEA" 
-    alt="Gl1scor" 
-    style="border-radius: 50%; width: 100px; height: 100px;" 
-/>
+<div align="center">
 
-I just love messing with things
+# Hi, I'm Rubén 👋
 
-<a href="mailto:github.no-reply.evaluator497@passfwd.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+### Cyber Threat Intelligence Analyst
 
-# My Main Skills
+**Threat Intel · Digital Risk Protection · Anti-Fraud · OSINT**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,cs,react,nextjs,astro,mysql,mongo,linux,python,bash)](https://skillicons.dev)
+*"I just love messing with things"*
 
-### Hacking Skills
-<p align="left">
-  <!-- Kali Linux -->
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  
-  <!-- Nmap -->
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/>
+<br/>
 
-</p>
+<a href="mailto:9intel.bloated678@passmail.com">
+  <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://img.shields.io/badge/Málaga,_Spain-CET/UTC+1-2ea44f?style=for-the-badge" alt="Location"/>
+
+</div>
+
+---
+
+## 🛰️ About Me
+
+- 🔭 **Cyber Threat Intelligence Analyst** at one of Europe's largest cybersecurity operations
+- 🏦 Former **embedded CTI analyst for a Tier-1 global bank**: IOC triage, daily threat bulletins, direct SOC support
+- 🕸️ **Dark web monitoring**: Tor forums, paste sites, credential leak & data exposure detection
+- 🎣 **Anti-fraud at national scale**: phishing blocking across ISP infrastructure, domain & social media takedowns
+- 🐍 I build **Python tooling** to automate OSINT collection, keyword alerting and intel reporting pipelines
+- 🎓 Trained at **42 Málaga** (peer-to-peer programming school)
+
+---
+
+<div align="center">
+
+## 🎯 Threat Intelligence
+
+**Frameworks & Methodology**
+
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge" alt="MITRE ATT&CK"/>
+<img src="https://img.shields.io/badge/Diamond_Model-1F6FEB?style=for-the-badge" alt="Diamond Model"/>
+<img src="https://img.shields.io/badge/Cyber_Kill_Chain-24292F?style=for-the-badge" alt="Cyber Kill Chain"/>
+<img src="https://img.shields.io/badge/Structured_Analytic_Techniques-6E40C9?style=for-the-badge" alt="SATs"/>
+
+**Platforms & Tooling**
+
+<img src="https://img.shields.io/badge/OpenCTI-0FBCFF?style=for-the-badge&logoColor=white" alt="OpenCTI"/>
+<img src="https://img.shields.io/badge/Cybersixgill-FF4B4B?style=for-the-badge" alt="Cybersixgill"/>
+<img src="https://img.shields.io/badge/Talkwalker-FFB000?style=for-the-badge" alt="Talkwalker"/>
+<img src="https://img.shields.io/badge/TIP_Administration-2EA44F?style=for-the-badge" alt="TIP Administration"/>
+
+**Tradecraft**
+
+<img src="https://img.shields.io/badge/OSINT-0A66C2?style=for-the-badge" alt="OSINT"/>
+<img src="https://img.shields.io/badge/SOCMINT-8250DF?style=for-the-badge" alt="SOCMINT"/>
+<img src="https://img.shields.io/badge/Dark_Web_Collection-24292F?style=for-the-badge" alt="Dark Web"/>
+<img src="https://img.shields.io/badge/IOC_Triage-C8102E?style=for-the-badge" alt="IOC Triage"/>
+<img src="https://img.shields.io/badge/Takedowns-FF6A00?style=for-the-badge" alt="Takedowns"/>
+<img src="https://img.shields.io/badge/Attack_Surface_Monitoring-1F6FEB?style=for-the-badge" alt="ASM"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧰 Tech Stack
+
+**Security Engineering & Automation**
+
+[![Skills](https://skillicons.dev/icons?i=python,bash,linux,git)](https://skillicons.dev)
+
+**Development Background**
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,cs,js,html,css,tailwind,react,nextjs,astro,mysql,mongo)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📜 Certifications
+
+<img src="https://img.shields.io/badge/CrowdStrike_Falcon_Intelligence_Specialist-E01F3D?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="CrowdStrike"/>
+<img src="https://img.shields.io/badge/Palo_Alto_—_Introduction_to_SecOps-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto"/>
+
+*+6 additional cybersecurity certifications — available on request*
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=9inteI&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9inteI&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="160"/>
+
+<br/><br/>
+
+*Tracking adversaries by day, breaking things responsibly by night.* 🌙
+
+</div>
